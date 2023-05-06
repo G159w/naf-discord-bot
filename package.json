@@ -37,6 +37,7 @@
 	"dependencies": {
 		"@floating-ui/dom": "^1.2.3",
 		"@prisma/client": "^4.13.0",
+		"discord-api-types": "^0.37.40",
 		"discord-interactions": "^3.3.0"
 	},
 	"type": "module"
